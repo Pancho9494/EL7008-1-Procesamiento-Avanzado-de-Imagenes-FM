@@ -25,7 +25,7 @@ La pirámide de Laplace:
 
 La imágen original y la reconstruida en escala de grises:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="640" height="360"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="512" height="200"/>
 
 El informe detallando la implementación se encuentra en Tarea_1.pdf
 
@@ -37,15 +37,17 @@ El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
 La imagen original con sus puntos de interés detectados mediante Harris:
 
-![Detección de puntos de interés de Harris](Tarea_2-Reconocimiento_de_objetos/puntosInteres.png =480x640)
+
+<img src="Tarea_2-Reconocimiento_de_objetos/puntosInteres.png" alt="Detección de puntos de interés de Harris" width="320" height="250"/>
+
 
 El match de los puntos de interés entre la imagen original y la de búsqueda, mediante RANSAC:
 
-![Matching de puntos de interés con RANSAC](Tarea_2-Reconocimiento_de_objetos/matching.png =1024x576)
+<img src="Tarea_2-Reconocimiento_de_objetos/matching.png" alt="Matching de puntos de interés con RANSAC" width="640" height="250"/>
 
 La detección final del objeto:
 
-![Detección del objeto](Tarea_2-Reconocimiento_de_objetos/deteccion.png =480x640)
+<img src="Tarea_2-Reconocimiento_de_objetos/deteccion.png" alt="Detección del objeto" width="320" height="250"/>
 
 El informe detallando la implementación se encuentra en Tarea_2_EL7008.pdf
 
