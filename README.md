@@ -10,13 +10,22 @@ Esta tarea tiene por objetivo implementar el cálculo de las pirámides de Gauss
 
 El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
-![Imagen original](Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg)
 
-![Pirámide de Gauss](Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png)
+La imagen original:
 
-![Pirámide de Laplace](Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png)
+![Imagen original](Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg =480x640)
 
-![Original vs reconstrucción](Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png)
+La pirámide de Gauss:
+
+![Pirámide de Gauss](Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png =1280×800)
+
+La pirámide de Laplace:
+
+![Pirámide de Laplace](Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png =1280×800)
+
+La imágen original y la reconstruida en escala de grises:
+
+![Original vs reconstrucción](Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png =1024x576)
 
 El informe detallando la implementación se encuentra en Tarea_1.pdf
 
@@ -26,11 +35,17 @@ Esta tarea tiene por objetivo implementar el calculo de puntos de interés media
 
 El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
-![Detección de puntos de interés de Harris](Tarea_2-Reconocimiento_de_objetos/puntosInteres.png)
+La imagen original con sus puntos de interés detectados mediante Harris:
 
-![Matching de puntos de interés con RANSAC](Tarea_2-Reconocimiento_de_objetos/matching.png)
+![Detección de puntos de interés de Harris](Tarea_2-Reconocimiento_de_objetos/puntosInteres.png =480x640)
 
-![Detección del objeto](Tarea_2-Reconocimiento_de_objetos/deteccion.png)
+El match de los puntos de interés entre la imagen original y la de búsqueda, mediante RANSAC:
+
+![Matching de puntos de interés con RANSAC](Tarea_2-Reconocimiento_de_objetos/matching.png =1024x576)
+
+La detección final del objeto:
+
+![Detección del objeto](Tarea_2-Reconocimiento_de_objetos/deteccion.png =480x640)
 
 El informe detallando la implementación se encuentra en Tarea_2_EL7008.pdf
 
