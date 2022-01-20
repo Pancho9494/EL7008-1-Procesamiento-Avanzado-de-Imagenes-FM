@@ -27,7 +27,7 @@ La imágen original y la reconstruida en escala de grises:
 
 <img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="512" height="200"/>
 
-El informe detallando la implementación se encuentra en Tarea_1.pdf
+El informe detallando la implementación se encuentra en [Tarea 1](Tarea_1-Piramides_de_Gauss_y_Laplace/Tarea_1.pdf)
 
 ## Tarea_2-Reconocimiento_de_objetos
 
@@ -43,13 +43,13 @@ La imagen original con sus puntos de interés detectados mediante Harris:
 
 El match de los puntos de interés entre la imagen original y la de búsqueda, mediante RANSAC:
 
-<img src="Tarea_2-Reconocimiento_de_objetos/matching.png" alt="Matching de puntos de interés con RANSAC" width="640" height="250"/>
+<img src="Tarea_2-Reconocimiento_de_objetos/matching.png" alt="Matching de puntos de interés con RANSAC" width="480" height="250"/>
 
 La detección final del objeto:
 
 <img src="Tarea_2-Reconocimiento_de_objetos/deteccion.png" alt="Detección del objeto" width="320" height="250"/>
 
-El informe detallando la implementación se encuentra en Tarea_2_EL7008.pdf
+El informe detallando la implementación se encuentra en [Tarea 2](Tarea_2-Reconocimiento_de_objetos/Tarea_2_EL7008.pdf)
 
 ## Tarea 3 - Clasificación de edad usando características tipo HOG
 
