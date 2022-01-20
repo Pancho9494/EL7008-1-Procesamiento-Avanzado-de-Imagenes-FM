@@ -55,15 +55,35 @@ El informe detallando la implementación se encuentra en [Tarea 2](Tarea_2-Recon
 
 Esta tarea tiene por objetivo diseñar e implementar un sistema de claisifación de edad basado en características HOG, utilizando como clasificadores SVM y Random Forest.
 
-El mejor clasificador obtenido fue una SVM que logra una accuracy de 0.71 sobre el conjunto de validación, a continuación se presentan las métricas correspondientes a este clasificador:
+El mejor clasificador obtenido fue una **SVM** que logra una **accuracy de 0.71 sobre el conjunto de validación**, a continuación se presentan las métricas correspondientes a este clasificador:
 
-<img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/metricas.png" alt="Metricas clasificador SVM" width="618" height="250"/>
+<img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/metricas.png" alt="Metricas clasificador SVM" width="309" height="121"/>
 
 Y a continuación se presenta la matriz de confusión de dicho clasificador:
 
 <img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/CM.png" alt="Matriz de confusión SVM" width="304" height="228"/>
 
+El informe detallando la implementación se encuentra en [Tarea 3](Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/Tarea_3_EL7008.pdf)
+
+
 ## Tarea 4 - Clasificación de edad usando LBP y redes neuronales
+
+Al igual que en la tarea anterior, esta tiene por objetivo diseñar e implementar un sistema de clasificación de edad, pero basado en características tipo histogramas LBP y utilizando redes neuronales como clasificador.
+
+En la siguiente figura se muestra un ejemplo del cálculo del histograma LBP en una imagen:
+
+<img src="Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/LBP.png" alt = "Histograma LBP sobre imagen" width="428" height="221"/>
+
+El mejor clasificador obtenido fue una **Red neuronal** con una capa oculta de 64 neuronas, que logra una **accuracy de 0.66 sobre el conjunto de validación**, a continuación se presenta la curva de pérdidas de este clasificador en la que se puede apreciar el mecanismo de *early stopping* implementado:
+
+<img src="Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/perdida.png" alt = "Curva de pérdida CE" width="574" height="298"/>
+
+Y a continuación se presenta la matriz de confusión normalizada de dicho clasificador:
+
+<img src="Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/CM.png" alt="Matriz de confusión NN" width="304" height="228"/>
+
+El informe detallando la implementación se encuentra en [Tarea 4](Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/Tarea_4_EL7008.pdf)
+
 
 ## Tarea 5 - Redes neuronales convolucionales para clasificar edad
 
