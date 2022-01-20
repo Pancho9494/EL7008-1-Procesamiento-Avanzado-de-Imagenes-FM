@@ -13,15 +13,15 @@ El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
 La imagen original:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg" alt="Imagen original" width="256" height="144"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg" alt="Imagen original" width="256" height="200"/>
 
 La pirámide de Gauss:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png" alt="Pirámide de Gauss" width="1280" height="720"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png" alt="Pirámide de Gauss" width="1509" height="200"/>
 
 La pirámide de Laplace:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png" alt="Pirámide de Laplace" width="1280" height="720"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png" alt="Pirámide de Laplace" width="1509" height="200"/>
 
 La imágen original y la reconstruida en escala de grises:
 
