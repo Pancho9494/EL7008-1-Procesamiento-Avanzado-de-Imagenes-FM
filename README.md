@@ -17,15 +17,15 @@ La imagen original:
 
 La pirámide de Gauss:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png" alt="Pirámide de Gauss" width="640" height="360"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideGauss.png" alt="Pirámide de Gauss" width="1280" height="720"/>
 
 La pirámide de Laplace:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png" alt="Pirámide de Laplace" width="1280" height="800"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/piramideLaplace.png" alt="Pirámide de Laplace" width="1280" height="720"/>
 
 La imágen original y la reconstruida en escala de grises:
 
-<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="1024" height="576"/>
+<img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="640" height="360"/>
 
 El informe detallando la implementación se encuentra en Tarea_1.pdf
 
