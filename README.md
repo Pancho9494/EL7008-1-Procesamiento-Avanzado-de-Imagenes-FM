@@ -29,6 +29,7 @@ La imágen original y la reconstruida en escala de grises:
 
 El informe detallando la implementación se encuentra en [Tarea 1](Tarea_1-Piramides_de_Gauss_y_Laplace/Tarea_1.pdf)
 
+
 ## Tarea_2-Reconocimiento_de_objetos
 
 Esta tarea tiene por objetivo implementar el calculo de puntos de interés mediante el método de Harris y la implementación de un detector de objetos que utilize los puntos de interés de Harris o descriptores SIFT, usando RANSAC.
@@ -37,9 +38,7 @@ El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
 La imagen original con sus puntos de interés detectados mediante Harris:
 
-
 <img src="Tarea_2-Reconocimiento_de_objetos/puntosInteres.png" alt="Detección de puntos de interés de Harris" width="320" height="250"/>
-
 
 El match de los puntos de interés entre la imagen original y la de búsqueda, mediante RANSAC:
 
@@ -51,7 +50,18 @@ La detección final del objeto:
 
 El informe detallando la implementación se encuentra en [Tarea 2](Tarea_2-Reconocimiento_de_objetos/Tarea_2_EL7008.pdf)
 
+
 ## Tarea 3 - Clasificación de edad usando características tipo HOG
+
+Esta tarea tiene por objetivo diseñar e implementar un sistema de claisifación de edad basado en características HOG, utilizando como clasificadores SVM y Random Forest.
+
+El mejor clasificador obtenido fue una SVM que logra una accuracy de 0.71 sobre el conjunto de validación, a continuación se presentan las métricas correspondientes a este clasificador:
+
+<img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/metricas.png" alt="Metricas clasificador SVM" width="618" height="250"/>
+
+Y a continuación se presenta la matriz de confusión de dicho clasificador:
+
+<img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/CM.png" alt="Matriz de confusión SVM" width="304" height="228"/>
 
 ## Tarea 4 - Clasificación de edad usando LBP y redes neuronales
 
