@@ -1,6 +1,6 @@
 # EL7008-1 Procesamiento Avanzado de Imágenes
 
-# Estudiante: Francisco Molina
+Estudiante: Francisco Molina
 
 Este repositorio almacena las tareas correspondientes al curso EL7008-1 de primavera 2021.
 
@@ -10,13 +10,13 @@ Esta tarea tiene por objetivo implementar el cálculo de las pirámides de Gauss
 
 El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
-![Imagen original](cuadro.jpg)
+![Imagen original](Tarea 1 - Pirámides de Gauss y Laplace/cuadro.jpg)
 
-![Pirámide de Gauss](piramideGauss.png)
+![Pirámide de Gauss](Tarea 1 - Pirámides de Gauss y Laplace/piramideGauss.png)
 
-![Pirámide de Laplace](piramideLaplace.png)
+![Pirámide de Laplace](Tarea 1 - Pirámides de Gauss y Laplace/piramideLaplace.png)
 
-![Original vs reconstrucción](ogVSrec.png)
+![Original vs reconstrucción](Tarea 1 - Pirámides de Gauss y Laplace/ogVSrec.png)
 
 El informe detallando la implementación se encuentra en Tarea_1.pdf
 
@@ -26,11 +26,11 @@ Esta tarea tiene por objetivo implementar el calculo de puntos de interés media
 
 El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
-![Detección de puntos de interés de Harris](puntosInteres.png)
+![Detección de puntos de interés de Harris](Tarea 2 - Reconocimiento de objetos/puntosInteres.png)
 
-![Matching de puntos de interés con RANSAC](matching.png)
+![Matching de puntos de interés con RANSAC](Tarea 2 - Reconocimiento de objetos/matching.png)
 
-![Detección del objeto](deteccion.png)
+![Detección del objeto](Tarea 2 - Reconocimiento de objetos/deteccion.png)
 
 El informe detallando la implementación se encuentra en Tarea_2_EL7008.pdf
 
