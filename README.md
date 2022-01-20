@@ -13,7 +13,7 @@ El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
 La imagen original:
 
-![Imagen original](Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg width="480" height="640")
+![Imagen original](Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg | width="480" height="640")
 
 La pirámide de Gauss:
 
