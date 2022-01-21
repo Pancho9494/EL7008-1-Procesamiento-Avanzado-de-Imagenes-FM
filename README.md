@@ -95,7 +95,7 @@ El mejor modelo obtenido fue una **CNN** que alcanza una **accuracy de 0.82 sobr
 
 Y a continuación se presenta la matriz de confusión normalizada de la CNN:
 
-<img src="Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/loss.png" alt="Matriz de confusión de la CNN" width="297" height="256"/>
+<img src="Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/CM.png" alt="Matriz de confusión de la CNN" width="297" height="256"/>
 
 El informe detallando la implementación se encuentra en [Tarea 5](Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/Tarea_5_EL7008.pdf)
 
