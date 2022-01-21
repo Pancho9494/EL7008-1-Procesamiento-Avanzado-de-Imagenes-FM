@@ -10,7 +10,6 @@ Esta tarea tiene por objetivo implementar el cálculo de las pirámides de Gauss
 
 El siguiente ejemplo muestra el funcionamiento del sistema implementado:
 
-
 La imagen original:
 
 <img src="Tarea_1-Piramides_de_Gauss_y_Laplace/cuadro.jpg" alt="Imagen original" width="256" height="200"/>
@@ -27,7 +26,7 @@ La imágen original y la reconstruida en escala de grises:
 
 <img src="Tarea_1-Piramides_de_Gauss_y_Laplace/ogVSrec.png" alt="Original vs reconstrucción" width="512" height="200"/>
 
-El informe detallando la implementación se encuentra en [Tarea 1](Tarea_1-Piramides_de_Gauss_y_Laplace/Tarea_1.pdf)
+El informe detallando la implementación se encuentra en [Tarea 1](Tarea_1-Piramides_de_Gauss_y_Laplace/Tarea_1.pdf) y el código se encuentra en el [Notebook de la Tarea 1](Tarea_1-Piramides_de_Gauss_y_Laplace/Tarea_1.ipynb)
 
 
 ## Tarea_2-Reconocimiento_de_objetos
@@ -48,7 +47,7 @@ La detección final del objeto:
 
 <img src="Tarea_2-Reconocimiento_de_objetos/deteccion.png" alt="Detección del objeto" width="320" height="250"/>
 
-El informe detallando la implementación se encuentra en [Tarea 2](Tarea_2-Reconocimiento_de_objetos/Tarea_2_EL7008.pdf)
+El informe detallando la implementación se encuentra en [Tarea 2](Tarea_2-Reconocimiento_de_objetos/Tarea_2_EL7008.pdf) y el código se encuentra en el [Notebook de la Tarea 2](Tarea_2-Reconocimiento_de_objetos/Tarea_2.ipynb)
 
 
 ## Tarea 3 - Clasificación de edad usando características tipo HOG
@@ -63,7 +62,8 @@ Y a continuación se presenta la matriz de confusión de dicho clasificador:
 
 <img src="Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/CM.png" alt="Matriz de confusión SVM" width="304" height="228"/>
 
-El informe detallando la implementación se encuentra en [Tarea 3](Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/Tarea_3_EL7008.pdf)
+El informe detallando la implementación se encuentra en [Tarea 3](Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/Tarea_3_EL7008.pdf) y el código se encuentra en el [Notebook de la Tarea 3](Tarea_3-Clasificacion_de_edad_usando_caracteristicas_tipo_HOG/Tarea_3.ipynb)
+
 
 
 ## Tarea 4 - Clasificación de edad usando LBP y redes neuronales
@@ -82,7 +82,7 @@ Y a continuación se presenta la matriz de confusión normalizada de dicho clasi
 
 <img src="Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/CM.png" alt="Matriz de confusión NN" width="304" height="228"/>
 
-El informe detallando la implementación se encuentra en [Tarea 4](Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/Tarea_4_EL7008.pdf)
+El informe detallando la implementación se encuentra en [Tarea 4](Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/Tarea_4_EL7008.pdf) y el código se encuentra en el [Notebook de la Tarea 4](Tarea_4-Clasificacion_de_edad_usando_LBP_y_redes_neuronales/Tarea_4.ipynb)
 
 
 ## Tarea 5 - Redes neuronales convolucionales para clasificar edad
@@ -97,7 +97,7 @@ Y a continuación se presenta la matriz de confusión normalizada de la CNN:
 
 <img src="Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/CM.png" alt="Matriz de confusión de la CNN" width="297" height="256"/>
 
-El informe detallando la implementación se encuentra en [Tarea 5](Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/Tarea_5_EL7008.pdf)
+El informe detallando la implementación se encuentra en [Tarea 5](Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/Tarea_5_EL7008.pdf) y el código se encuentra en el [Notebook de la Tarea 5](Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/Tarea_5.ipynb)
 
 
 
