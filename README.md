@@ -87,6 +87,17 @@ El informe detallando la implementación se encuentra en [Tarea 4](Tarea_4-Clasi
 
 ## Tarea 5 - Redes neuronales convolucionales para clasificar edad
 
+Al igual que en las tareas 3 y 4, esta tarea tiene por objetivo diseñar e implementar un sistema de clasificación de edad, pero utilizando redes neuronales convolucionales.
+
+El mejor modelo obtenido fue una **CNN** que alcanza una **accuracy de 0.82 sobre el conjunto de validación**, a continuación se presenta la curva de pérdida de entrenamiento de dicho modelo:
+
+<img src="Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/loss.png" alt="Curvade pérdida CE de la CNN" width="521" height="215"/>
+
+Y a continuación se presenta la matriz de confusión normalizada de la CNN:
+
+<img src="Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/loss.png" alt="Matriz de confusión de la CNN" width="297" height="256"/>
+
+El informe detallando la implementación se encuentra en [Tarea 5](Tarea_5-Redes_neuronales_convolucionales_para_clasificar_edad/Tarea_5_EL7008.pdf)
 
 
 
